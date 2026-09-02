@@ -230,7 +230,7 @@ pre {
 }
 
 /* Mobile */
-@media (max-width: 480px) {
+@media (max-width: 600px) {
     header {
         position: relative;
     }
